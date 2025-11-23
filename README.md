@@ -1,2 +1,2 @@
-# C-
+# C++
 coding relative to C++

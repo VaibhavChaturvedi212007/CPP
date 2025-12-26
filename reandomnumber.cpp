@@ -3,6 +3,7 @@
 #include<ctime>
 using namespace std;
 
+
 int main(){
     // Random number = we use rand() function to generate random number
     // cout<<rand();

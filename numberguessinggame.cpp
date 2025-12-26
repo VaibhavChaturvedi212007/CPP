@@ -11,6 +11,7 @@ int main(){
         cout<<"Enter a guessing number between (1-100)";
         cin>>guess;
         tries++;
+        
 
         if(guess>num){
             cout<<"to High"<<endl;
